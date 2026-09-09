@@ -124,26 +124,6 @@ Set up flight limits, home points, battery actions and safety preferences. Confi
 ---
 
 
-## Installation
-
-1. Install the APK on the controller (or update the existing installation).
-2. Grant the two permissions RAGAS checks for on start:
-
-   | Permission                         | Why it is needed                                             |
-   | ---------------------------------- | ------------------------------------------------------------ |
-   | **Display over other apps**        | Auto-start and alert overlays                                |
-   | **Battery-optimisation exemption** | Stops the system suspending the link while the screen is off |
-
-   *Settings › Common* reports which of these is still missing. Some manufacturers require an
-   extra toggle in the device's own settings before auto-start will work.
-3. Payload firmware is updated from inside the application (*Settings › OTA Update*), not at
-   install time.
-
-**[Full installation guide →](https://rtrobotics.gitbook.io/real-time-robotics/getting-started/installation)**
-
----
-
-
 <p align="center">
   <sub>© Real-Time Robotics — RAGAS. All rights reserved.</sub>
 </p>
