@@ -61,7 +61,7 @@ RAGAS provides operators with a unified interface to monitor aircraft telemetry,
       <br><b>Map View</b>
     </td>
     <td align="center">
-      <img src="assets/mission.png" width="100%">
+      <img src="assets/mission-panel.png" width="100%">
       <br><b>Mission Planner</b>
     </td>
   </tr>
